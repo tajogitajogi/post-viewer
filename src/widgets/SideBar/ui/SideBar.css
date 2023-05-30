@@ -1,0 +1,10 @@
+.Sidebar{
+    background-color:var(--inverted-bg-color)
+}
+
+.SideBarBody{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+
+}
